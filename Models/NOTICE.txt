@@ -1,0 +1,4 @@
+This model is trained using Dan Becker's Hot Dog - Not Hot Dog dataset:
+https://www.kaggle.com/dansbecker/hot-dog-not-hot-dog
+
+The dataset directory structure been adapted for use with Apple's Create ML app.
