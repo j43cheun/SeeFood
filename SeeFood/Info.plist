@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>NSCameraUsageDescription</key>
-	<string>The camera is used to capture images for garbage classification.</string>
+	<string>The camera is used to capture images for food classification.</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>
